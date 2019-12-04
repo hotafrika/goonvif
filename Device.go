@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"github.com/beevik/etree"
-	"github.com/yakovlevdmv/gosoap"
+	"github.com/hotafrika/gosoap"
 	"strconv"
 	"net/http"
 	"io/ioutil"
